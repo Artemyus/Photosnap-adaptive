@@ -711,20 +711,20 @@ span {
         flex-wrap: wrap;
     }
 
-    .mountain {
-        width: 384px;
+      .mountain {
+        width: 100%;
     }
 
     .sunset {
-        width: 384px;
+        width: 100%;
     }
 
     .voyage {
-        width: 384px;
+        width: 100%;
     }
 
     .architect {
-        width: 384px;
+        width: 100%;
     }
 
     .buttom_info {
